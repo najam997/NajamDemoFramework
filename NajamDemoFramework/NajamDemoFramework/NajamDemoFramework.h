@@ -15,5 +15,5 @@ FOUNDATION_EXPORT double NajamDemoFrameworkVersionNumber;
 FOUNDATION_EXPORT const unsigned char NajamDemoFrameworkVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <NajamDemoFramework/PublicHeader.h>
-
+#import <NajamDemoFramework/GitUsersRepos.h>
 
