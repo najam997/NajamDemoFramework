@@ -1,0 +1,6 @@
+framework module Pods_NajamDemoFramework_NajamDemoFrameworkTests {
+  umbrella header "Pods-NajamDemoFramework-NajamDemoFrameworkTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
